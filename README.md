@@ -26,7 +26,7 @@ Total of 7,138,049,000++ much coins (equals world population)
 
 ![ComingSoon2](http://www.akpgercegi.com/wp-content/recep_tayyip_erdogan_akp2.jpg)
 
-### How get doge?
+### How get RTE?
 Scrypt Proof of Work
 
 1 Minute Block Targets, 3 Hour Diff Readjustments
