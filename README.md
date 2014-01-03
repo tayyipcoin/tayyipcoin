@@ -13,7 +13,7 @@ for more information or see http://opensource.org/licenses/MIT.
 We don't learn, how to develop this coin, from you.
 
 ## Why mine RTE?
-Because, as a world leader; Recep Tayyip Erdogan is our last hope to save his country; Turkey, and all Muslims and finally the whole world! Nowadays, he struggles with many coup plans, massive protests and an neomessianic-masonnic islamic sect: Gulen Movement. If you mine Tayyipcoin, you will help his non-capitalist New Galaxy Order plans. When all RTE's mined, RTE will be the single official currency all over galactic empire. 
+Because, as a world leader; Recep Tayyip Erdogan is our last hope to save his country; Turkey, and all Muslims and finally the whole world! Nowadays, he struggles with many coup plans, massive protests and an neomessianic-masonnic islamic sect: Gulen Movement. Finally a graft probe hit his ministers and his son. Erdogan labeled this probe an assassination attempt. If you mine Tayyipcoin, you will help his non-capitalist New Galaxy Order plans. When all RTE's mined, RTE will be the single official currency all over the galactic empire. 
 
 ![MineRTE](http://i.imgur.com/SsauoI7.jpg)
 
