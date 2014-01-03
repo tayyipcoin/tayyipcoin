@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Tayyipcoin [DOGE, Ð]
 http://dogecoin.com/
 
