@@ -4,15 +4,14 @@ http://tayyipcoin.info
 ![TayyipCoin](http://i.imgur.com/kslOB5d.png)
 
 ## What is Tayyipcoin? 
-Tayyipcoin is like Bitcoin, but based on Litecoin, and also much more wow.
+Tayyipcoin is revolution, and ideas are bulletproof.
 
 ## License 
 Tayyipcoin is released under the terms of the MIT license. See [COPYING](COPYING)
 for more information or see http://opensource.org/licenses/MIT.
 
 ## Development and contributions 
-Developers work in their own trees, then submit pull requests when they think
-their feature or bug fix is ready.
+We don't learn, how to develop this coin, from you.
 
 ## Why mine RTE?
 Because, as a world leader; Recep Tayyip Erdogan is our last hope to save his country; Turkey, and all Muslims and finally the whole world! Nowadays, he struggles with many coup plans, massive protests and an neomessianic-masonnic islamic sect: Gulen Movement. If you mine Tayyipcoin, you will help his non-capitalist New Galaxy Order plans. When all RTE's mined, RTE will be the single official currency all over galactic empire. 
