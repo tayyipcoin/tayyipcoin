@@ -1,9 +1,9 @@
-Building Dogecoin
+Building Tayyipcoin
 
-See doc/readme-qt.rst for instructions on building Dogecoin-QT,
+See doc/readme-qt.rst for instructions on building Tayyipcoin-QT,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of Dogecoin.
 
-See doc/build-*.txt for instructions on building dogecoind,
+See doc/build-*.txt for instructions on building tayyipcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Dogecoin.
+implementation of Tayyipcoin.
