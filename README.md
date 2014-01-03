@@ -1,8 +1,7 @@
-
 # Tayyipcoin [DOGE, Ð]
 http://dogecoin.com/
 
-![DogeCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![TayyipCoin](http://i.imgur.com/kslOB5d.png)
 
 ## What is DogeCoin? - Such coin
 Dogecoin is like Bitcoin, but based on Litecoin, and also much more wow.
