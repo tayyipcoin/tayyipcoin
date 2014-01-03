@@ -24,6 +24,8 @@ Because, as a world leader; Recep Tayyip Erdogan is our last hope to save his co
 ### How much RTE can exist?
 Total of 7,138,049,000++ much coins (equals world population)
 
+![ComingSoon2](http://www.akpgercegi.com/wp-content/recep_tayyip_erdogan_akp2.jpg)
+
 ### How get doge?
 Scrypt Proof of Work
 
@@ -50,7 +52,7 @@ Special reward system: Random block rewards
 
 first paper wallet created by norro, bobiler.
 
-### Wow plz make tayyipcoind
+### How to make
 
     sudo apt-get install build-essential \
                          libssl-dev \
@@ -69,6 +71,6 @@ P2P 2071
 
 ### Coming soon!
 ![ComingSoon](http://i.imgur.com/tEgdsEg.png)
-![ComingSoon2](http://www.akpgercegi.com/wp-content/recep_tayyip_erdogan_akp2.jpg)
+
 
 
