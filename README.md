@@ -32,11 +32,17 @@ Scrypt Proof of Work
 Special reward system: Random block rewards
 
 000,001 — 100,000: 0-100,000 Tayyipcoin Reward
+
 100,001 — 200,000: 0-50,000 Tayyipcoin Reward
+
 200,001 — 300,000: 0-25,000 Tayyipcoin Reward
+
 300,001 — 400,000: 0-12,500 Tayyipcoin Reward
+
 400,001 — 500,000: 0-6,250 Tayyipcoin Reward
+
 500,001 - 600,000: 0-3,125 Tayyipcoin Reward
+
 600,000+ — 1,000 Reward (flat)
 
 ### Paper Wallets
@@ -58,6 +64,7 @@ first paper wallet created by norro, bobiler.
 
 ### Ports
 RPC 2023
+
 P2P 2071
 
 ### Coming soon!
