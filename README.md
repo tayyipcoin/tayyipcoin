@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 # Tayyipcoin [DOGE, Ð]
-=======
-# Dogecoin [DOGE, Ð]
->>>>>>> 7a2c56b642f8083a64780ed5f875ee0f84da9977
 http://dogecoin.com/
 
 ![DogeCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
