@@ -40,6 +40,10 @@ Special reward system: Random block rewards
 
 600,000+ — 10,000 Reward (flat)
 
+### Paper Wallets
+coming soon...
+(http://radorecdn.bobiler.org/upload/all/164/tayyip_para_2047_164115221t.jpg)
+
 ### Wow plz make dogecoind
 
     sudo apt-get install build-essential \
@@ -56,4 +60,5 @@ Special reward system: Random block rewards
 RPC 22555
 P2P 22556
 
-![](http://dogesay.com/wow//////such/coin)
+![]
+
