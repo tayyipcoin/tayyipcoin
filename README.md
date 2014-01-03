@@ -32,11 +32,17 @@ Scrypt Proof of Work
 
 Block Rewards:
 000,001 — 100,000: 33,333 Tayyipcoin Reward
+
 100,001 — 200,000: 22,222 Tayyipcoin Reward
+
 200,001 — 300,000: 11,111 Tayyipcoin Reward
+
 300,001 — 400,000: 3,333 Tayyipcoin Reward
+
 400,001 — 500,000: 2,222 Tayyipcoin Reward
+
 500,001 - 600,000: 1,111 Tayyipcoin Reward
+
 600,000+ — 2 Reward (flat)
 
 ### Paper Wallets
