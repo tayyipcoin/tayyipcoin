@@ -22,8 +22,7 @@ Because, as a world leader; Recep Tayyip Erdogan is our last hope to save his co
 
 ### How much RTE can exist?
 Equals world population.
-Total of 7,3 billion(UN DESA est.)++ much coins 
-
+For 2015; total of 7,3 billion(UN DESA est.)++ much coins 
 
 ![ComingSoon2](http://www.akpgercegi.com/wp-content/recep_tayyip_erdogan_akp2.jpg)
 
