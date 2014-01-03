@@ -1,5 +1,4 @@
 # Tayyipcoin [RTE, Ԙ]
-http://tayyipcoin.info
 
 ![TayyipCoin](http://i.imgur.com/kslOB5d.png)
 
