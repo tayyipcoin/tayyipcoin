@@ -42,7 +42,7 @@ Special reward system: Random block rewards
 
 ### Paper Wallets
 coming soon...
-(http://radorecdn.bobiler.org/upload/all/164/tayyip_para_2047_164115221t.jpg)
+![PaperTayyip](http://radorecdn.bobiler.org/upload/all/164/tayyip_para_2047_164115221t.jpg)
 
 ### Wow plz make dogecoind
 
@@ -59,6 +59,4 @@ coming soon...
 ### Such ports
 RPC 22555
 P2P 22556
-
-![]
 
