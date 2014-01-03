@@ -31,6 +31,7 @@ Scrypt Proof of Work
 1 Minute Block Targets, 1 Hour Diff Readjustments
 
 Block Rewards:
+
 000,001 — 100,000: 33,333 Tayyipcoin Reward
 
 100,001 — 200,000: 22,222 Tayyipcoin Reward
