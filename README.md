@@ -1,4 +1,4 @@
-# Dogecoin [DOGE, Ð]
+# Tayyipcoin [DOGE, Ð]
 http://dogecoin.com/
 
 ![DogeCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
