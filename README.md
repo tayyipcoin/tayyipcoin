@@ -28,23 +28,16 @@ Total of 7,138,049,000++ much coins (equals world population)
 ### How get RTE?
 Scrypt Proof of Work
 
-1 Minute Block Targets, 3 Hour Diff Readjustments
+1 Minute Block Targets, 1 Hour Diff Readjustments
 
-Special reward system: Random block rewards
-
-000,001 — 100,000: 0-100,000 Tayyipcoin Reward
-
-100,001 — 200,000: 0-50,000 Tayyipcoin Reward
-
-200,001 — 300,000: 0-25,000 Tayyipcoin Reward
-
-300,001 — 400,000: 0-12,500 Tayyipcoin Reward
-
-400,001 — 500,000: 0-6,250 Tayyipcoin Reward
-
-500,001 - 600,000: 0-3,125 Tayyipcoin Reward
-
-600,000+ — 1,000 Reward (flat)
+Block Rewards:
+000,001 — 100,000: 33,333 Tayyipcoin Reward
+100,001 — 200,000: 22,222 Tayyipcoin Reward
+200,001 — 300,000: 11,111 Tayyipcoin Reward
+300,001 — 400,000: 3,333 Tayyipcoin Reward
+400,001 — 500,000: 2,222 Tayyipcoin Reward
+500,001 - 600,000: 1,111 Tayyipcoin Reward
+600,000+ — 2 Reward (flat)
 
 ### Paper Wallets
 ![PaperTayyip](http://i.imgur.com/U1alPzN.jpg)
