@@ -42,7 +42,9 @@ Special reward system: Random block rewards
 
 ### Paper Wallets
 coming soon...
-![PaperTayyip](http://radorecdn.bobiler.org/upload/all/164/tayyip_para_2047_164115221t.jpg)
+
+![PaperTayyip](http://i.imgur.com/U1alPzN.jpg)
+first paper wallet created by norro, bobiler.
 
 ### Wow plz make dogecoind
 
